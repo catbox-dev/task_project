@@ -1,3 +1,5 @@
+# Description: This program is a simple task manager
+
 import os
 
 # Create task list
